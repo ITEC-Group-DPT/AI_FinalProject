@@ -331,7 +331,7 @@ setting.json
 
 # Local History for Visual Studio Code
 .history/
-.ideal/
+.idea/
 
 # Built Visual Studio Code Extensions
 *.vsix
@@ -345,3 +345,4 @@ setting.json
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode
+.DS_Store
